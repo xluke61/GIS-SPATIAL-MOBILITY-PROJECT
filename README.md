@@ -23,4 +23,5 @@ quality output from both clustering models is moderately good with room for impr
 Future works using advanced modelling techniques can provide additional insights on 
 precise and distinctive temporal and spatial dynamics within prison environments. These can 
 help improve authority investigation and intervention strategies to address potential safety 
-and security risks
+and security risks.
+
